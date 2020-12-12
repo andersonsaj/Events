@@ -1,0 +1,17 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "postgres",
+  "password": "1234",
+  "database": "event_web",
+  "entities":[
+      "./src/entities/*.ts"
+  ],
+  "migrations":[
+      "./src/database/migrations/*.ts"
+  ],
+  "cli":{
+      "migrationsDir": "./src/database/migrations"
+  }
+}
