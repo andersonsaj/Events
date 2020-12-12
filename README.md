@@ -1,6 +1,6 @@
 <h1> Events, backend Nodejs</h1> <br>
 
-<h1>Funcionalidades:</h1> <br> <br>
+<h1>Funcionalidades:</h1> <br> 
 <h2>Cadastrar um evento:</h2> <br>
 <strong>Dados do evento:</strong> Título, descrição, local do evento, data do evento , data limite para inscrição, idade mínima para participar, Qtd máxima de participantes.<br>
 <h2>Inscrição em evento:</h2>
