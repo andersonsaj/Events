@@ -1,6 +1,6 @@
 # Events
 
-backend Nodejs
+<h1>backend Nodejs</h1> <br>
 
 <h1>Funcionalidades:</h1> <br> <br>
 <h2>Cadastrar um evento:</h2> <br>
@@ -10,7 +10,7 @@ backend Nodejs
 <h2>Emitir lista inscritos:</h2>
 Nome do evento, nome pessoa, CPF.
 
-<h1>Restrições:</h1> <br> <br>
+<h1>Restrições:</h1> <br>
 Uma pessoa só pode se inscrever se a data < data limite para inscrição.<br>
 Uma pessoa só pode se inscrever se ela tiver idade >= a idade mínima permitida para o evento.<br>
 Uma pessoa só pode se inscrever uma vez por evento.<br>
